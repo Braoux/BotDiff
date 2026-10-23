@@ -2,11 +2,13 @@
 
 # ⚔️ BotDiff
 
-### Win the lane before the first minion wave.
+### Know the matchup before the first minion wave.
 
 **A clearer game plan for your League of Legends botlane matchup.**
 
 [**▶ Try the alpha**](https://lanelens.onrender.com/) · [How it works](#how-it-works) · [Français](#-en-français)
+
+<img src="assets/botdiff-hero.svg" alt="BotDiff — a visual botlane matchup plan" width="100%" />
 
 ![Status](https://img.shields.io/badge/status-alpha-2d3d64?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-botlane-6e60a5?style=flat-square)

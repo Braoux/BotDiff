@@ -14,6 +14,12 @@ An **alpha version** is accessible at [lanelens.onrender.com](https://lanelens.o
 
 Une **version alpha** est accessible à cette même adresse. Les fonctionnalités et la fiabilité peuvent évoluer.
 
+## Why does the alpha URL still say LaneLens? / Pourquoi l'URL indique encore LaneLens ?
+
+LaneLens is the previous project name. **BotDiff** is the public-facing brand; the alpha still uses its historical `lanelens.onrender.com` address during the transition.
+
+LaneLens est l'ancien nom du projet. **BotDiff** est sa nouvelle marque ; l'alpha utilise encore son adresse historique pendant la transition.
+
 ## Do I need to connect my Riot account? / Faut-il connecter son compte Riot ?
 
 The four-champion selection and analysis experience does not require signing in with a Riot account.
