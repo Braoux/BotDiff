@@ -47,6 +47,20 @@ BotDiff helps you prepare for that specific 2v2. Choose your ADC and support, th
 
 Insights are matchup-specific **guidance, not guaranteed outcomes**. League of Legends changes regularly, and gameplay recommendations should be evaluated critically.
 
+## See BotDiff in action
+
+### Ezreal + Xerath vs Jinx + Thresh
+
+A real matchup walkthrough, from champion selection to a detailed lane plan. Here's what the analysis result looks like on **desktop** and **mobile**.
+
+| Desktop · Analysis result | Mobile · Analysis result |
+| :---: | :---: |
+| <a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/03-result.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/03-result.png" alt="BotDiff analysis results on desktop" width="660"></a> | <a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/03-result.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/03-result.png" alt="BotDiff analysis results on mobile" width="230"></a> |
+
+**[Explore the complete 8-screenshot walkthrough / Voir les 8 captures](docs/SCREENSHOTS.md)**
+
+_Actual alpha interface; features and recommendations may evolve._
+
 ## How it works
 
 1. **Select four champions** — your ADC, your support, their ADC and their support.
@@ -85,6 +99,7 @@ This is the **official public showcase for BotDiff**, not its source-code reposi
 - **Use BotDiff:** [Live alpha](https://lanelens.onrender.com/)
 - **Understand BotDiff:** [FAQ / questions fréquentes](docs/FAQ.md)
 - **Share BotDiff:** [Short product description and talking points](docs/ABOUT.md)
+- **See BotDiff:** [Product screenshots](docs/SCREENSHOTS.md)
 
 Publishing this repository does **not** grant a license to copy, reproduce or redistribute the application or its proprietary implementation. See [NOTICE](NOTICE.md).
 

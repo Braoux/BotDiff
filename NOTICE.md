@@ -9,3 +9,5 @@ This statement does not override any mandatory statutory rights, rights of third
 **League of Legends** and **Riot Games** belong to their respective owners. BotDiff is an independent third-party project and is not endorsed by Riot Games.
 
 For questions about BotDiff, consult the [public product page](README.md).
+
+Public product screenshots may contain League of Legends game imagery. Game artwork and trademarks remain the property of their respective rights holders; no permission to reuse them is granted here.

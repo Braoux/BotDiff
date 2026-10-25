@@ -30,6 +30,6 @@
 
 Please distinguish gameplay suggestions from established game facts. Don't claim every matchup is supported, every recommendation is correct, the product is generally available, or that BotDiff is endorsed by Riot Games.
 
-Use official Riot / League of Legends materials only in accordance with the applicable Riot policies and rights. No third-party artwork, footage or user testimonials are included in this repository.
+Use official Riot / League of Legends materials only in accordance with the applicable Riot policies and rights. Product screenshots depict the BotDiff interface and may include third-party League of Legends game imagery. Rights to that imagery belong to their respective owners. No user testimonials are included.
 
 **Note:** Implementation details, prompts, datasets, system architecture, keys, metrics and internal roadmap are not part of the public communications kit.
