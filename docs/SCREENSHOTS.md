@@ -1,42 +1,48 @@
-# BotDiff — Screenshots / Captures d'écran
+# BotDiff — Product screenshots / Captures d'écran
 
-[← BotDiff](../README.md)
+[← Back to BotDiff / Retour à BotDiff](../README.md)
 
-Real alpha example: **Ezreal + Xerath vs Jinx + Thresh**. / Exemple réel de l'alpha.
-This is an illustrative matchup, not a promise of complete coverage or infallible advice.
+A real example of the **Ezreal + Xerath vs Jinx + Thresh** matchup in the BotDiff alpha.
+Each step is shown on **desktop (1,440 px)** and **mobile (390 px)**.
 
-## 01 — desktop 1440 selection
+These screenshots illustrate one matchup. They do not imply perfect advice or universal analysis availability.
 
-![BotDiff — desktop 1440 selection](../assets/screenshots/ezreal-xerath-vs-jinx-thresh/01-01-desktop-1440-selection.png)
+## 1. Choose your matchup / Sélection des champions
 
-## 02 — mobile 390 selection
+Select your ADC and support, then the opposing duo.
 
-![BotDiff — mobile 390 selection](../assets/screenshots/ezreal-xerath-vs-jinx-thresh/02-01-mobile-390-selection.png)
+| Desktop | Mobile |
+| :---: | :---: |
+| <a href="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/01-selection.png"><img src="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/01-selection.png" alt="1. Choose your matchup / Sélection des champions on desktop" width="700"></a> | <a href="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/01-selection.png"><img src="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/01-selection.png" alt="1. Choose your matchup / Sélection des champions on mobile" width="245"></a> |
 
-## 03 — desktop 1440 chargement
 
-![BotDiff — desktop 1440 chargement](../assets/screenshots/ezreal-xerath-vs-jinx-thresh/03-02-desktop-1440-chargement.png)
+## 2. Generate the analysis / Chargement
 
-## 04 — mobile 390 chargement
+A loading state while BotDiff prepares its matchup-specific guidance.
 
-![BotDiff — mobile 390 chargement](../assets/screenshots/ezreal-xerath-vs-jinx-thresh/04-02-mobile-390-chargement.png)
+| Desktop | Mobile |
+| :---: | :---: |
+| <a href="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/02-loading.png"><img src="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/02-loading.png" alt="2. Generate the analysis / Chargement on desktop" width="700"></a> | <a href="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/02-loading.png"><img src="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/02-loading.png" alt="2. Generate the analysis / Chargement on mobile" width="245"></a> |
 
-## 05 — desktop 1440 resultat
 
-![BotDiff — desktop 1440 resultat](../assets/screenshots/ezreal-xerath-vs-jinx-thresh/05-03-desktop-1440-resultat.png)
+## 3. Read your lane plan / Résultat
 
-## 06 — mobile 390 resultat
+A tactical overview to quickly understand the 2v2.
 
-![BotDiff — mobile 390 resultat](../assets/screenshots/ezreal-xerath-vs-jinx-thresh/06-03-mobile-390-resultat.png)
+| Desktop | Mobile |
+| :---: | :---: |
+| <a href="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/03-result.png"><img src="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/03-result.png" alt="3. Read your lane plan / Résultat on desktop" width="700"></a> | <a href="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/03-result.png"><img src="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/03-result.png" alt="3. Read your lane plan / Résultat on mobile" width="245"></a> |
 
-## 07 — desktop 1440 details
 
-![BotDiff — desktop 1440 details](../assets/screenshots/ezreal-xerath-vs-jinx-thresh/07-04-desktop-1440-details.png)
+## 4. Explore tactical details / Détails
 
-## 08 — mobile 390 details
+Dig deeper into decisions, risks and opportunities.
 
-![BotDiff — mobile 390 details](../assets/screenshots/ezreal-xerath-vs-jinx-thresh/08-04-mobile-390-details.png)
+| Desktop | Mobile |
+| :---: | :---: |
+| <a href="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/04-details.png"><img src="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/04-details.png" alt="4. Explore tactical details / Détails on desktop" width="700"></a> | <a href="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/04-details.png"><img src="../assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/04-details.png" alt="4. Explore tactical details / Détails on mobile" width="245"></a> |
+
 
 ---
 
-BotDiff is independent of Riot Games. League of Legends rights remain with their respective owners.
+BotDiff is an independent third-party project, not endorsed by Riot Games. League of Legends game imagery and trademarks remain with their respective rights holders.

@@ -49,17 +49,17 @@ Insights are matchup-specific **guidance, not guaranteed outcomes**. League of L
 
 ## See BotDiff in action
 
-Real BotDiff alpha screenshots for **Ezreal + Xerath vs Jinx + Thresh**.
+### Ezreal + Xerath vs Jinx + Thresh
 
-<div align="center">
+A real matchup walkthrough, from champion selection to a detailed lane plan. Here's what the analysis result looks like on **desktop** and **mobile**.
 
-<a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/01-01-desktop-1440-selection.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/01-01-desktop-1440-selection.png" alt="BotDiff — desktop 1440 selection" width="48%" /></a>
-<a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/02-01-mobile-390-selection.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/02-01-mobile-390-selection.png" alt="BotDiff — mobile 390 selection" width="48%" /></a>
-<a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/03-02-desktop-1440-chargement.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/03-02-desktop-1440-chargement.png" alt="BotDiff — desktop 1440 chargement" width="48%" /></a>
+| Desktop · Analysis result | Mobile · Analysis result |
+| :---: | :---: |
+| <a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/03-result.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/desktop/03-result.png" alt="BotDiff analysis results on desktop" width="660"></a> | <a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/03-result.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/mobile/03-result.png" alt="BotDiff analysis results on mobile" width="230"></a> |
 
-</div>
+**[Explore the complete 8-screenshot walkthrough / Voir les 8 captures](docs/SCREENSHOTS.md)**
 
-**[Explore all 8 screenshots / Voir toutes les captures](docs/SCREENSHOTS.md)**
+_Actual alpha interface; features and recommendations may evolve._
 
 ## How it works
 
