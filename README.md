@@ -47,6 +47,20 @@ BotDiff helps you prepare for that specific 2v2. Choose your ADC and support, th
 
 Insights are matchup-specific **guidance, not guaranteed outcomes**. League of Legends changes regularly, and gameplay recommendations should be evaluated critically.
 
+## See BotDiff in action
+
+Real BotDiff alpha screenshots for **Ezreal + Xerath vs Jinx + Thresh**.
+
+<div align="center">
+
+<a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/01-01-desktop-1440-selection.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/01-01-desktop-1440-selection.png" alt="BotDiff — desktop 1440 selection" width="48%" /></a>
+<a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/02-01-mobile-390-selection.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/02-01-mobile-390-selection.png" alt="BotDiff — mobile 390 selection" width="48%" /></a>
+<a href="assets/screenshots/ezreal-xerath-vs-jinx-thresh/03-02-desktop-1440-chargement.png"><img src="assets/screenshots/ezreal-xerath-vs-jinx-thresh/03-02-desktop-1440-chargement.png" alt="BotDiff — desktop 1440 chargement" width="48%" /></a>
+
+</div>
+
+**[Explore all 8 screenshots / Voir toutes les captures](docs/SCREENSHOTS.md)**
+
 ## How it works
 
 1. **Select four champions** — your ADC, your support, their ADC and their support.
@@ -85,6 +99,7 @@ This is the **official public showcase for BotDiff**, not its source-code reposi
 - **Use BotDiff:** [Live alpha](https://lanelens.onrender.com/)
 - **Understand BotDiff:** [FAQ / questions fréquentes](docs/FAQ.md)
 - **Share BotDiff:** [Short product description and talking points](docs/ABOUT.md)
+- **See BotDiff:** [Product screenshots](docs/SCREENSHOTS.md)
 
 Publishing this repository does **not** grant a license to copy, reproduce or redistribute the application or its proprietary implementation. See [NOTICE](NOTICE.md).
 
